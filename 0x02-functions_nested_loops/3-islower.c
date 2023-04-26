@@ -1,12 +1,12 @@
-i#include "main.h"
+#include "main.h"
 /**
-  *_islower - returns 1 if input is a
-  *lowercase character , another case shows
+  *_islower - shows 1 if the input is a
+  *lowercase character. Another cases shows
   *0
   *
-  *@c - the character is in ASCII code
+  *@c: The character in ASCII cod
   *
-  *Return:  1 for lowercase,0 for other
+  *Return: 1 for lowercase character. 0 for the rest
   */
 int _islower(int c)
 {
